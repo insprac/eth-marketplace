@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Hat",
+    "description": "Protect your character from sun",
+    "image": "https://api.example.com/images/items/1.png",
+    "attributes": [
+      {
+        "trait_type": "type",
+        "value": "hat"
+      },
+      {
+        "trait_type": "rarity",
+        "value": "common"
+      }
+    ]
+  }
+]
